@@ -42,14 +42,14 @@ Data Collection
 
 Environmental data (temperature, humidity, rainfall)/n
 
-Citizen-reported symptoms (fever cases)/n
-Simulated health trends (mock data)
-AI-Based Processing
-Detects unusual spikes in symptoms
-Analyzes recent trends (7–14 days)
-Calculates a risk score for each area
-Risk Prediction
-Predicts likelihood of outbreaks in upcoming days
+Citizen-reported symptoms (fever cases) </br>
+Simulated health trends (mock data)</br>
+AI-Based Processing</br>
+Detects unusual spikes in symptoms</br>
+Analyzes recent trends (7–14 days)</br>
+Calculates a risk score for each area</br>
+Risk Prediction</br>
+Predicts likelihood of outbreaks in upcoming days</br>
 Classifies areas into:
 
 
