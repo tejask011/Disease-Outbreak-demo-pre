@@ -29,13 +29,17 @@ Unlike traditional systems that rely only on confirmed medical data, our solutio
 </h2>
 <img width="985" height="453" alt="image" src="https://github.com/user-attachments/assets/e97f297b-658d-455b-b6f6-d00ab8cf28eb" />
 
+<h2>
+  💡 Key Innovation
+</h2>
 
-💡 Key Innovation
 
 We detect outbreaks before they happen by combining environmental data, citizen-reported symptoms, and trend analysis — instead of waiting for confirmed hospital cases.
 
  How It Works
 Data Collection
+</br>
+
 Environmental data (temperature, humidity, rainfall)
 Citizen-reported symptoms (fever cases)
 Simulated health trends (mock data)
