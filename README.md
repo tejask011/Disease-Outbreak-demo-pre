@@ -40,8 +40,9 @@ We detect outbreaks before they happen by combining environmental data, citizen-
 Data Collection
 </br>
 
-Environmental data (temperature, humidity, rainfall)
-Citizen-reported symptoms (fever cases)
+Environmental data (temperature, humidity, rainfall)/n
+
+Citizen-reported symptoms (fever cases)/n
 Simulated health trends (mock data)
 AI-Based Processing
 Detects unusual spikes in symptoms
