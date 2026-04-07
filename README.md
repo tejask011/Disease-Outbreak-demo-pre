@@ -34,7 +34,7 @@ Unlike traditional systems that rely only on confirmed medical data, our solutio
 
 We detect outbreaks before they happen by combining environmental data, citizen-reported symptoms, and trend analysis — instead of waiting for confirmed hospital cases.
 
-⚙️ How It Works
+ How It Works
 Data Collection
 Environmental data (temperature, humidity, rainfall)
 Citizen-reported symptoms (fever cases)
@@ -46,9 +46,15 @@ Calculates a risk score for each area
 Risk Prediction
 Predicts likelihood of outbreaks in upcoming days
 Classifies areas into:
+
+
+</br>
+
 🟢 Low Risk
 🟡 Medium Risk
 🔴 High Risk
+</br>
+
 Visualization
 Displays risk using heatmaps and map-based visualization
 Highlights high-risk zones for quick understanding
